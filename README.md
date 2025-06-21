@@ -1,10 +1,20 @@
 # UlyssesBlock - Sistema de Bloqueio de Domínios
 
-Uma ferramenta Python para bloquear domínios específicos a nível de sistema no Windows, inspirada na famosa "Regra de Ulisses" - uma estratégia de autocontrole que impede decisões impulsivas removendo a capacidade de escolha.
+Uma ferramenta Python **open source** para bloquear domínios específicos a nível de sistema no Windows, inspirada na famosa "Regra de Ulisses" - uma estratégia de autocontrole que impede decisões impulsivas removendo a capacidade de escolha.
+
+**Uma alternativa gratuita e de código aberto para aplicativos como Freedom, Cold Turkey, FocusMe e similares.**
 
 ## 🎯 O que faz
 
 O UlyssesBlock bloqueia completamente o acesso a websites específicos em todo o sistema Windows, criando regras no Firewall do Windows que impedem qualquer aplicação (navegadores, apps, etc.) de se conectar aos domínios especificados.
+
+### 🆚 Por que usar em vez de apps pagos?
+
+- **🆓 Completamente gratuito** - Sem assinaturas ou limitações
+- **🔓 Código aberto** - Você pode ver exatamente o que o código faz
+- **🔧 Personalizável** - Modifique conforme suas necessidades
+- **🛡️ Privacidade** - Nenhum dado é enviado para servidores externos
+- **⚡ Leve** - Não consome recursos do sistema rodando em background
 
 ## 🛡️ Como funciona
 
